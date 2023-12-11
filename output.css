@@ -6,11 +6,11 @@
 
 
 .text-summary{
-  font-size: 01.0rem !important;
- /* letter-spacing: -0.08px !important; */
+  font-size: 1.10rem !important;
+  letter-spacing: -0.10px !important; 
 }
 
 .text-content{
   font-size: 0.98rem !important;
-  /*letter-spacing: -0.08px !important; */
+  letter-spacing: -0.08px !important;
 }
